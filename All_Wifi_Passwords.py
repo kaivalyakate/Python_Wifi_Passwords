@@ -29,7 +29,7 @@ if len(profiles) != 0:
 
             list_wifi.append(each_profile)
 
-for i in list_wifi:
-    print(i)
+for wifis in list_wifi:
+    print(wifis)
             
 
